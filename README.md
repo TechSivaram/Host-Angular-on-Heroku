@@ -14,4 +14,5 @@ This line in package.json will do the needed stuff
 
 ![image](https://user-images.githubusercontent.com/85802871/121799853-13ff2080-cc4c-11eb-9717-f952e6f323af.png)
 
-![image](https://user-images.githubusercontent.com/85802871/121799946-bfa87080-cc4c-11eb-8fea-be5d3fbe0e5f.png)
+![image](https://user-images.githubusercontent.com/85802871/121799958-d18a1380-cc4c-11eb-834c-cced3d96ecc7.png)
+
